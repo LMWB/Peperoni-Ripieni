@@ -24,5 +24,6 @@ Calculation Filter Capacities according to Spreadsheet with given R = 100k and C
 # What is it good for ?
 ... well ... to quote Edwin Starr: "absolutely nothing!"   
 No just kidding. 
+- modern high resolution signal generators
 - inverters for electric motors (electric powertrain in EV's)
 - inverter for photovoltaic grid power feed in
